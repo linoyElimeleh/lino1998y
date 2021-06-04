@@ -1,4 +1,4 @@
-### Hhello followers and nice to meet you 👋 
+### hello followers and nice to meet you 👋 
 <h1 style="text-align:center">Linoy Linda Elimeleh - Software Engineer</h1>
 
 <img style="text-align:center" width="850" height="400" alt="portfolio_view" src="https://media.giphy.com/media/l378b9LcC3cclsY2A/giphy.gif">
